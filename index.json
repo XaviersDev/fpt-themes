@@ -1,0 +1,210 @@
+[
+  {
+    "id": "theme-3",
+    "name": "Эндер Мир",
+    "desc": "Тема с фоном эндер-мира из Minecraft.",
+    "author": "@AlliSighs",
+    "file": "themes/theme-3.fptheme",
+    "preview": "previews/theme-3.jpg"
+  },
+  {
+    "id": "theme-4",
+    "name": "Ято (Бездомный бог)",
+    "desc": "Тема с Ято из аниме Бездомный бог",
+    "author": "@AlliSighs",
+    "file": "themes/theme-4.fptheme",
+    "preview": "previews/theme-4.jpg"
+  },
+  {
+    "id": "theme-5",
+    "name": "Воркаем на вайбе",
+    "desc": "Анимированная тема с вайбовым фоном",
+    "author": "@sprvo4",
+    "file": "themes/theme-5.fptheme",
+    "preview": "previews/theme-5.jpg"
+  },
+  {
+    "id": "theme-6",
+    "name": "Вечерние горы",
+    "desc": "Анимированный пейзаж с магазином на горе на фоне других гор.",
+    "author": "@sprvo4",
+    "file": "themes/theme-6.fptheme",
+    "preview": "previews/theme-6.jpg"
+  },
+  {
+    "id": "theme-7",
+    "name": "Конец",
+    "desc": "Красивая тема. Конец.",
+    "author": "@sprvo4",
+    "file": "themes/theme-7.fptheme",
+    "preview": "previews/theme-7.jpg"
+  },
+  {
+    "id": "theme-8",
+    "name": "Северное сияние",
+    "desc": "Самая красивая тема во всём этом каталоге! Уникальные блюры и оттенки ждут вас в этой теме.",
+    "author": "@sprvo4",
+    "file": "themes/theme-8.fptheme",
+    "preview": "previews/theme-8.jpg"
+  },
+  {
+    "id": "dark-tonnel-9",
+    "name": "Dark tonnel",
+    "desc": "тёмный туннель с девочкой посередине",
+    "author": "@sprvo4",
+    "file": "themes/dark-tonnel-9.fptheme",
+    "preview": "previews/dark-tonnel-9.jpg"
+  },
+  {
+    "id": "red-10",
+    "name": "RED",
+    "desc": "Anime red",
+    "author": "@Rengenersky",
+    "file": "themes/red-10.fptheme",
+    "preview": "previews/red-10.jpg"
+  },
+  {
+    "id": "dark-steam-web-11",
+    "name": "Dark Steam Web",
+    "desc": "Темная тема с иконными цветами Steam и нейтральным фоном Windows 11",
+    "author": "@m1kellaa",
+    "file": "themes/dark-steam-web-11.fptheme",
+    "preview": "previews/dark-steam-web-11.jpg"
+  },
+  {
+    "id": "purple-theme-12",
+    "name": "Purple theme",
+    "desc": "Вайбовая фиолетовая тема",
+    "author": "@gucb177",
+    "file": "themes/purple-theme-12.fptheme",
+    "preview": "previews/purple-theme-12.jpg"
+  },
+  {
+    "id": "hanakodx-14",
+    "name": "HanakoDX",
+    "desc": "Dx",
+    "author": "@fakkeeee",
+    "file": "themes/hanakodx-14.fptheme",
+    "preview": "previews/hanakodx-14.jpg"
+  },
+  {
+    "id": "asdasdasd-15",
+    "name": "asdasdasd",
+    "desc": "мо",
+    "author": "@m1n4meepomother",
+    "file": "themes/asdasdasd-15.fptheme",
+    "preview": "previews/asdasdasd-15.jpg"
+  },
+  {
+    "id": "snowy-winter-16",
+    "name": "Snowy Winter",
+    "desc": "Пусть FunPay станет вашим тёплым уголком среди зимы — местом, где можно вдохнуть свежесть, вдохновиться красотой и почувствовать уют в каждом мгновении.",
+    "author": "",
+    "file": "themes/snowy-winter-16.fptheme",
+    "preview": "previews/snowy-winter-16.jpg"
+  },
+  {
+    "id": "deathnote-18",
+    "name": "DeathNote",
+    "desc": "Тетрадь смерти рюдзаки L",
+    "author": "@ydwsxz",
+    "file": "themes/deathnote-18.fptheme",
+    "preview": "previews/deathnote-18.jpg"
+  },
+  {
+    "id": "sakyra-23",
+    "name": "sakyra",
+    "desc": "Вайбовая фиолетовая тема",
+    "author": "@ChapikChap",
+    "file": "themes/sakyra-23.fptheme",
+    "preview": "previews/sakyra-23.jpg"
+  },
+  {
+    "id": "etanikov-25",
+    "name": "etanikov",
+    "desc": "etanik",
+    "author": "@Tetanikov",
+    "file": "themes/etanikov-25.fptheme",
+    "preview": "previews/etanikov-25.jpg"
+  },
+  {
+    "id": "theme-29",
+    "name": "Зелёная тема 🟩",
+    "desc": "Простая зелёная тема с анимированным фоном",
+    "author": "@playgame1435",
+    "file": "themes/theme-29.fptheme",
+    "preview": "previews/theme-29.jpg"
+  },
+  {
+    "id": "theme-30",
+    "name": "Сакура...",
+    "desc": "Сакура",
+    "author": "@cizikser",
+    "file": "themes/theme-30.fptheme",
+    "preview": "previews/theme-30.jpg"
+  },
+  {
+    "id": "theme-31",
+    "name": "крутаяя красивая прикольная тема заебись",
+    "desc": "да",
+    "author": "@Wgqgtqtqtq",
+    "file": "themes/theme-31.fptheme",
+    "preview": "previews/theme-31.jpg"
+  },
+  {
+    "id": "theme-32",
+    "name": "Зеленая тема с листиками",
+    "desc": "Тема фулл зеленая делал лично для себя думаю кому-то тоже понравится",
+    "author": "@ponihogr",
+    "file": "themes/theme-32.fptheme",
+    "preview": "previews/theme-32.jpg"
+  },
+  {
+    "id": "lite-gray-36",
+    "name": "lite_gray",
+    "desc": "светло-серая тема",
+    "author": "@uglykira",
+    "file": "themes/lite-gray-36.fptheme",
+    "preview": "previews/lite-gray-36.jpg"
+  },
+  {
+    "id": "firewatch-purple-lite-43",
+    "name": "Firewatch Purple Lite",
+    "desc": "Лайтовая темная тема с фиолетовыми оттенками и комфортными доработками интерфейса.",
+    "author": "@AlliSighs",
+    "file": "themes/firewatch-purple-lite-43.fptheme",
+    "preview": "previews/firewatch-purple-lite-43.jpg"
+  },
+  {
+    "id": "miku-49",
+    "name": "miku?",
+    "desc": "девочка с трусиками",
+    "author": "@Cmert_W_Nishete",
+    "file": "themes/miku-49.fptheme",
+    "preview": "previews/miku-49.jpg"
+  },
+  {
+    "id": "breakcore-51",
+    "name": "breakcore",
+    "desc": "тут гифка",
+    "author": "@Cmert_W_Nishete",
+    "file": "themes/breakcore-51.fptheme",
+    "preview": "previews/breakcore-51.jpg"
+  },
+  {
+    "id": "purple-eyes-54",
+    "name": "Purple Eyes",
+    "desc": "Тема с использованием темных и фиолетовых оттенков",
+    "author": "@enfoldme",
+    "file": "themes/purple-eyes-54.fptheme",
+    "preview": "previews/purple-eyes-54.jpg"
+  },
+  {
+    "id": "pyramid-minimalism-56",
+    "name": "Pyramid minimalism",
+    "desc": "Приятная глазу тема",
+    "author": "@nako_valnya",
+    "file": "themes/pyramid-minimalism-56.fptheme",
+    "preview": "previews/pyramid-minimalism-56.jpg"
+  }
+]
