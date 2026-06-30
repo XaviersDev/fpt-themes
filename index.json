@@ -206,5 +206,61 @@
     "author": "@nako_valnya",
     "file": "themes/pyramid-minimalism-56.fptheme",
     "preview": "previews/pyramid-minimalism-56.jpg"
+  },
+  {
+    "id": "animated-fp-mashyka-64",
+    "name": "animated FP : mashyka",
+    "desc": "︎︎︎︎",
+    "author": "@hellomykillers",
+    "file": "themes/animated-fp-mashyka-64.fptheme",
+    "preview": "previews/animated-fp-mashyka-64.jpg"
+  },
+  {
+    "id": "animated-fp-mashyka-66",
+    "name": "animated FP : mashyka",
+    "desc": "︎︎︎︎",
+    "author": "@hellomykillers",
+    "file": "themes/animated-fp-mashyka-66.fptheme",
+    "preview": "previews/animated-fp-mashyka-66.jpg"
+  },
+  {
+    "id": "purple-by-wer1xxz-68",
+    "name": "фиолетовая тема purple by wer1xxz",
+    "desc": "фиолетовая тема",
+    "author": "@wer1xx40",
+    "file": "themes/purple-by-wer1xxz-68.fptheme",
+    "preview": "previews/purple-by-wer1xxz-68.jpg"
+  },
+  {
+    "id": "silent-peak-71",
+    "name": "Silent_peak",
+    "desc": "Silent",
+    "author": "@rina_reeels",
+    "file": "themes/silent-peak-71.fptheme",
+    "preview": "previews/silent-peak-71.jpg"
+  },
+  {
+    "id": "animated-fp-mashyka-63",
+    "name": "animated FP : mashyka",
+    "desc": "︎︎︎︎",
+    "author": "@hellomykillers",
+    "file": "themes/animated-fp-mashyka-63.fptheme",
+    "preview": "previews/animated-fp-mashyka-63.jpg"
+  },
+  {
+    "id": "frieren-78",
+    "name": "Frieren",
+    "desc": "Frieren theme",
+    "author": "@RubiorQ",
+    "file": "themes/frieren-78.fptheme",
+    "preview": "previews/frieren-78.jpg"
+  },
+  {
+    "id": "theme-79",
+    "name": "воодушевление",
+    "desc": "Девушка, окно, город, котик",
+    "author": "@MerkWork",
+    "file": "themes/theme-79.fptheme",
+    "preview": "previews/theme-79.jpg"
   }
 ]
