@@ -17,8 +17,8 @@
   },
   {
     "id": "theme-5",
-    "name": "Воркаем на вайбе",
-    "desc": "Анимированная тема с вайбовым фоном",
+    "name": "Рабочая атмосфера",
+    "desc": "Анимированная тема со спокойным фоном",
     "author": "@sprvo4",
     "file": "themes/theme-5.fptheme",
     "preview": "previews/theme-5.jpg"
@@ -50,7 +50,7 @@
   {
     "id": "dark-tonnel-9",
     "name": "Dark tonnel",
-    "desc": "тёмный туннель с девочкой посередине",
+    "desc": "Тёмный туннель с силуэтом персонажа посередине",
     "author": "@sprvo4",
     "file": "themes/dark-tonnel-9.fptheme",
     "preview": "previews/dark-tonnel-9.jpg"
@@ -74,7 +74,7 @@
   {
     "id": "purple-theme-12",
     "name": "Purple theme",
-    "desc": "Вайбовая фиолетовая тема",
+    "desc": "Приятная фиолетовая тема",
     "author": "@gucb177",
     "file": "themes/purple-theme-12.fptheme",
     "preview": "previews/purple-theme-12.jpg"
@@ -82,7 +82,7 @@
   {
     "id": "hanakodx-14",
     "name": "HanakoDX",
-    "desc": "Dx",
+    "desc": "Персонаж Ханако держит маску",
     "author": "@fakkeeee",
     "file": "themes/hanakodx-14.fptheme",
     "preview": "previews/hanakodx-14.jpg"
@@ -98,7 +98,7 @@
   {
     "id": "snowy-winter-16",
     "name": "Snowy Winter",
-    "desc": "Пусть FunPay станет вашим тёплым уголком среди зимы — местом, где можно вдохнуть свежесть, вдохновиться красотой и почувствовать уют в каждом мгновении.",
+    "desc": "Пусть FunPay станет вашим тёплым уголком среди зимы - местом, где можно вдохнуть свежесть, вдохновиться красотой и почувствовать уют в каждом мгновении.",
     "author": "",
     "file": "themes/snowy-winter-16.fptheme",
     "preview": "previews/snowy-winter-16.jpg"
@@ -106,7 +106,7 @@
   {
     "id": "deathnote-18",
     "name": "DeathNote",
-    "desc": "Тетрадь смерти рюдзаки L",
+    "desc": "Тетрадь рюдзаки L",
     "author": "@ydwsxz",
     "file": "themes/deathnote-18.fptheme",
     "preview": "previews/deathnote-18.jpg"
@@ -114,18 +114,10 @@
   {
     "id": "sakyra-23",
     "name": "sakyra",
-    "desc": "Вайбовая фиолетовая тема",
+    "desc": "Приятная фиолетовая тема",
     "author": "@ChapikChap",
     "file": "themes/sakyra-23.fptheme",
     "preview": "previews/sakyra-23.jpg"
-  },
-  {
-    "id": "etanikov-25",
-    "name": "etanikov",
-    "desc": "etanik",
-    "author": "@Tetanikov",
-    "file": "themes/etanikov-25.fptheme",
-    "preview": "previews/etanikov-25.jpg"
   },
   {
     "id": "theme-29",
@@ -145,8 +137,8 @@
   },
   {
     "id": "theme-31",
-    "name": "крутаяя красивая прикольная тема заебись",
-    "desc": "да",
+    "name": "Красивая тема",
+    "desc": "Красивая тема",
     "author": "@Wgqgtqtqtq",
     "file": "themes/theme-31.fptheme",
     "preview": "previews/theme-31.jpg"
@@ -154,7 +146,7 @@
   {
     "id": "theme-32",
     "name": "Зеленая тема с листиками",
-    "desc": "Тема фулл зеленая делал лично для себя думаю кому-то тоже понравится",
+    "desc": "Полностью зелёная тема, делал для себя думаю, кому-то тоже понравится",
     "author": "@ponihogr",
     "file": "themes/theme-32.fptheme",
     "preview": "previews/theme-32.jpg"
@@ -174,14 +166,6 @@
     "author": "@AlliSighs",
     "file": "themes/firewatch-purple-lite-43.fptheme",
     "preview": "previews/firewatch-purple-lite-43.jpg"
-  },
-  {
-    "id": "miku-49",
-    "name": "miku?",
-    "desc": "девочка с трусиками",
-    "author": "@Cmert_W_Nishete",
-    "file": "themes/miku-49.fptheme",
-    "preview": "previews/miku-49.jpg"
   },
   {
     "id": "breakcore-51",
@@ -254,13 +238,5 @@
     "author": "@RubiorQ",
     "file": "themes/frieren-78.fptheme",
     "preview": "previews/frieren-78.jpg"
-  },
-  {
-    "id": "theme-79",
-    "name": "воодушевление",
-    "desc": "Девушка, окно, город, котик",
-    "author": "@MerkWork",
-    "file": "themes/theme-79.fptheme",
-    "preview": "previews/theme-79.jpg"
   }
 ]
