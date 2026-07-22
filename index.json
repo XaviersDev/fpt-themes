@@ -1,5 +1,29 @@
 [
   {
+    "id": "firewatch-blue-96",
+    "name": "Firewatch Blue",
+    "desc": "Тема из игры Firewatch, сделанная в синих оттенках",
+    "author": "@AlliSighs",
+    "file": "themes/firewatch-blue-96.fptheme",
+    "preview": "previews/firewatch-blue-96.jpg"
+  },
+  {
+    "id": "firewatch-orange-97",
+    "name": "Firewatch Orange",
+    "desc": "Тема из игры Firewatch, основанная в оранжевых оттенках.",
+    "author": "@AlliSighs",
+    "file": "themes/firewatch-orange-97.fptheme",
+    "preview": "previews/firewatch-orange-97.jpg"
+  },
+  {
+    "id": "black-hole-94",
+    "name": "Black Hole",
+    "desc": "Тёмная космическая тема с атмосферой чёрной дыры",
+    "author": "@Pea4c",
+    "file": "themes/black-hole-94.fptheme",
+    "preview": "previews/black-hole-94.jpg"
+  },
+  {
     "id": "theme-3",
     "name": "Эндер Мир",
     "desc": "Тема с фоном эндер-мира из Minecraft.",
@@ -18,7 +42,7 @@
   {
     "id": "theme-5",
     "name": "Рабочая атмосфера",
-    "desc": "Анимированная тема со спокойным фоном",
+    "desc": "Анимированная тема со спокойным фоном. Автор: Mienar",
     "author": "@sprvo4",
     "file": "themes/theme-5.fptheme",
     "preview": "previews/theme-5.jpg"
@@ -26,7 +50,7 @@
   {
     "id": "theme-6",
     "name": "Вечерние горы",
-    "desc": "Анимированный пейзаж с магазином на горе на фоне других гор.",
+    "desc": "Анимированный пейзаж с магазином на горе на фоне других гор. Автор: Mienar",
     "author": "@sprvo4",
     "file": "themes/theme-6.fptheme",
     "preview": "previews/theme-6.jpg"
