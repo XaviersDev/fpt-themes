@@ -1,5 +1,13 @@
 [
   {
+    "id": "vicecity-98",
+    "name": "Vice City",
+    "desc": "Поздравляем с выходом GTA 6!",
+    "author": "@FPTools",
+    "file": "themes/Vice_City.fptheme",
+    "preview": "previews/vicecity_preview.jpg"
+  },
+  {
     "id": "firewatch-blue-96",
     "name": "Firewatch Blue",
     "desc": "Тема из игры Firewatch, сделанная в синих оттенках",
